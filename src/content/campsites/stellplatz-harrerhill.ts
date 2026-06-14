@@ -79,7 +79,7 @@ const stellplatzHarrerhill: CampsiteConfig = {
       {
         title: "Sanitär auf Hotelniveau",
         text: "Helle Räume mit Echtholz-Kabinen und großen Landschaftsbildern. Der Eintritt ins Sanitärgebäude kostet 50 Cent über den Münzzähler.",
-        image: { src: `${IMG}/sanitaer-wc.webp`, alt: "Modernes WC im Sanitärgebäude des Stellplatz Harrer Hill" },
+        image: { src: `${IMG}/sanitaer-kabinen.webp`, alt: "Echtholz-Kabinen und Waschbereich im Sanitärgebäude des Stellplatz Harrer Hill" },
       },
       {
         title: "Barrierefreies Bad",
@@ -132,7 +132,7 @@ const stellplatzHarrerhill: CampsiteConfig = {
       { src: `${IMG}/wohnmobile-wiese.webp`, alt: "Wohnmobile und ein Zelt auf der Wiese am Stellplatz Harrer Hill" },
       { src: `${IMG}/abend-stellplatz.webp`, alt: "Abendstimmung am Stellplatz Harrer Hill mit Wohnmobilen auf der Anhöhe" },
       { src: `${IMG}/gebaeude-stellflaechen.webp`, alt: "Sanitärgebäude und Stellflächen am Stellplatz Harrer Hill" },
-      { src: `${IMG}/sanitaer-kabinen.webp`, alt: "Waschraum mit Echtholz-Kabinen im Sanitärgebäude" },
+      { src: `${IMG}/sanitaer-wc.webp`, alt: "Modernes WC-Bereich im Sanitärgebäude des Stellplatz Harrer Hill" },
     ],
   },
 
