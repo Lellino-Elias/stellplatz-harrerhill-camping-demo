@@ -29,17 +29,17 @@ const stellplatzHarrerhill: CampsiteConfig = {
   pillars: [
     {
       title: "Mitten im Almenland",
-      text: "Der Platz liegt auf einer sonnigen Anhöhe über dem Passailer Becken, umgeben von Wiesen, Wäldern und Hügeln — der Blick reicht laut Betreiber bis zu 50 km weit.",
+      text: "Der Platz liegt auf einer sonnigen Anhöhe über Passail, umgeben von Wiesen und Wäldern — der Blick reicht bis zu 50 km weit.",
       image: { src: `${IMG}/luft-almenland.webp`, alt: "Luftaufnahme: Stellplatz Harrer Hill im Almenland mit Bergpanorama" },
     },
     {
       title: "Sanitär auf Hotelniveau",
-      text: "Bodentiefe Fliesen, Echtholz-Kabinen und großformatige Landschaftsbilder: das Sanitärgebäude mit WC, Duschen und barrierefreiem Bad ist modern und gepflegt.",
+      text: "Bodentiefe Fliesen, Echtholz-Kabinen und großformatige Landschaftsbilder: das Sanitärgebäude ist modern und gepflegt.",
       image: { src: `${IMG}/sanitaer-waschbecken.webp`, alt: "Moderne Waschbecken im Sanitärgebäude des Stellplatz Harrer Hill" },
     },
     {
       title: "Alles aus einer Hand",
-      text: "Robert Harrer betreibt hier Wohnmobil-Zentrum, Campingshop und Stellplatz in einem — du stehst direkt beim Betrieb und bist bestens versorgt.",
+      text: "Robert Harrer betreibt Wohnmobil-Zentrum, Campingshop und Stellplatz in einem — du stehst direkt beim Betrieb.",
       image: { src: `${IMG}/stellplatz-flagge.webp`, alt: "Sanitärgebäude und Stellplatz-Fahne am Harrer Hill mit Wohnmobilen" },
     },
   ],
@@ -73,12 +73,12 @@ const stellplatzHarrerhill: CampsiteConfig = {
     features: [
       {
         title: "40 Stellplätze für Wohnmobile",
-        text: "30 Plätze mit und 10 ohne Stromanschluss, klare Bodenmarkierungen und Abstand zum Nachbarn — Wohnmobile und Wohnwagen stehen hier eben und ruhig.",
+        text: "30 Plätze mit und 10 ohne Strom, klare Bodenmarkierungen und Abstand zum Nachbarn — Wohnmobile stehen hier eben und ruhig.",
         image: { src: `${IMG}/stellplaetze-anhoehe.webp`, alt: "Reihe von Wohnmobilen auf der Anhöhe am Stellplatz Harrer Hill" },
       },
       {
         title: "Sanitär auf Hotelniveau",
-        text: "Helle Räume mit Echtholz-Kabinen und großen Landschaftsbildern. Der Eintritt ins Sanitärgebäude kostet 50 Cent über den Münzzähler.",
+        text: "Helle Räume mit Echtholz-Kabinen und Landschaftsbildern. Der Eintritt kostet 50 Cent über den Münzzähler.",
         image: { src: `${IMG}/sanitaer-kabinen.webp`, alt: "Echtholz-Kabinen und Waschbereich im Sanitärgebäude des Stellplatz Harrer Hill" },
       },
       {
@@ -98,7 +98,7 @@ const stellplatzHarrerhill: CampsiteConfig = {
       },
       {
         title: "Campingshop am Platz",
-        text: "Im Campingshop von Robert Harrer findest du praktisches Zubehör für deinen Camper — und das Wohnmobil-Zentrum liegt gleich daneben.",
+        text: "Im Campingshop findest du praktisches Zubehör für deinen Camper — das Wohnmobil-Zentrum liegt gleich daneben.",
         image: { src: `${IMG}/servicegebaeude.webp`, alt: "Service- und Sanitärgebäude des Stellplatz Harrer Hill" },
       },
     ],
